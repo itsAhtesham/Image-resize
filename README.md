@@ -1,3 +1,3 @@
 # Image-resize
 
-Python code to 1.resize our image
+Python code to resize our image
